@@ -54,3 +54,55 @@ footer{
     padding:20px;
     background:#0d1b2a;
 }
+
+.table-container{
+    overflow-x:auto;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:20px;
+}
+
+th{
+    text-align:left;
+    padding:12px;
+    background:#1b365d;
+}
+
+td{
+    padding:12px;
+    border-bottom:1px solid #233b59;
+}
+
+tr:hover{
+    background:#162c48;
+}
+
+
+.badge{
+    display:inline-block;
+    padding:6px 12px;
+    border-radius:20px;
+    background:#38bdf8;
+    color:#081320;
+    font-weight:bold;
+}
+
+
+.stat-box{
+    display:flex;
+    justify-content:space-around;
+    flex-wrap:wrap;
+}
+
+
+.stat{
+    background:#10233b;
+    padding:20px;
+    margin:10px;
+    border-radius:10px;
+    text-align:center;
+    min-width:150px;
+}
