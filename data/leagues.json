@@ -1,1 +1,28 @@
+{
+  "season": "Founding Expedition",
+  "year": 1,
 
+  "leagues": [
+    {
+      "id": "elites",
+      "name": "League of Elites",
+      "icon": "🏆",
+      "teams": 12,
+      "level": 1
+    },
+    {
+      "id": "challenger",
+      "name": "Challenger League",
+      "icon": "🚀",
+      "teams": 12,
+      "level": 2
+    },
+    {
+      "id": "cadet",
+      "name": "Cadet League",
+      "icon": "🪐",
+      "teams": 12,
+      "level": 3
+    }
+  ]
+}
